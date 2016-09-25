@@ -1,0 +1,129 @@
+body {
+    font-family: 'David Libre', serif;
+    font-size: 15px;
+    text-align: center;
+}
+
+.header {
+    
+    max-width: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+
+}
+
+.header a {
+    position: relative;
+    bottom: 20px;
+    margin: 0 20px;
+    color: #404040;
+    text-decoration: none;
+    
+}
+
+.header a:hover {
+    text-decoration: underline;
+}
+
+
+.logo {
+    height: 140px;
+    max-width: 100%;
+    text-align: center;
+    margin-top: 200px;
+}
+
+
+    
+
+
+input {
+    padding: 10px 200px;
+    
+}
+
+
+.buttons {
+    height: auto;
+    margin: 30px;
+    
+}
+
+button {
+    margin: 5px;
+    padding: 10px 15px;
+    border: 1px solid #ffffff;;
+    background-color: #f0f0f0;
+    color: #707070;
+    font-weight: bold;
+    border-radius: 2px;
+    
+}
+
+button:hover {
+    
+    border: 1px solid #c0c0c0;
+    
+    color: #404040;
+    
+}
+
+.deutsch {
+    
+    margin-bottom: 120px;
+    
+}
+
+.deutch a {
+    text-decoration: none;
+    color: blue;
+}
+
+.deutch a:hover {
+    text-decoration: underline;
+}
+
+.footer {
+    background-color: #f3f3f3;
+    height: 30px;
+    margin: 0;
+    color: #c0c0c0;
+    
+    
+}
+
+.left {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.left li {
+    display: inline;
+    margin: 30px;
+    
+}
+
+.left a {
+    text-decoration: none;
+    
+}
+
+.right {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+
+.right li {
+    display: inline;
+    margin: 30px;
+}
+
+.right a {
+    text-decoration: none;
+    
+}
+

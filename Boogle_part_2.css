@@ -1,0 +1,78 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+
+.login {
+    background-color: #F7F7F7;
+    height: 350px;
+    width: 350px;
+    margin: auto;
+    border: 1px solid #dedede;
+}
+
+.login img {
+    margin: 10% 30%;
+    
+}
+
+.login input {
+    padding: 3% 28% 3% 1%;
+    border: 1px solid #dedede;
+    font-size: 1.1em;
+    text-align: left;
+    
+}
+
+button {
+    background-color: #4D90FE;
+    color: #ffffff;
+    font-weight: bold;
+    padding: 10px 145px; 
+    margin-top: 5%;
+    border-radius: 3px;
+    border: 1px solid #F7F7F7;
+}
+
+button:hover {
+    border: 1px solid #3079ED;
+}
+
+.login a {
+    font-size: 0.8em;
+    display: block;
+    color: #4D90FE;
+    text-decoration: none;
+    margin-top: 3%;
+    font-weight: bold;
+    margin-left: 60%
+    
+}
+
+.login a:hover {
+    text-decoration: underline;
+}
+
+.create {
+    margin-top: 20px;
+}
+
+.create a {
+    font-size: 0.9em;
+    text-decoration: none;
+    color: #4D90FE;
+    font-weight: bold;
+    
+}
+
+.create a:hover {
+    text-decoration: underline;
+    
+}
+
+.icons {
+    font-size: 0.9em;
+    margin: 40px 0;
+}
+
+
